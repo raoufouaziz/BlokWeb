@@ -36,15 +36,15 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://assetstore.unity.com
+https://learn.unity.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding 2021-11-21 om 14.00.11.png" width="375px" alt="Homepage van Unity Learn">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding 2021-11-21 om 14.01.40.png" width="375px" alt="Alle leermodules van Unity Learn">
  
 </details>
 
