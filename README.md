@@ -39,11 +39,11 @@ Surface plane
 https://learn.unity.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Homepage van Unity Learn.
 <img src="images/Schermafbeelding 2021-11-21 om 14.00.11.png" width="375px" alt="Homepage van Unity Learn">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+Alle leermdodules van Unity Learn.  
 <img src="images/Schermafbeelding 2021-11-21 om 14.01.40.png" width="375px" alt="Alle leermodules van Unity Learn">
  
 </details>
