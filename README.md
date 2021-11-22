@@ -36,7 +36,7 @@ Surface plane
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://learn.unity.com
+https://www.bunq.com
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage van Unity Learn.
