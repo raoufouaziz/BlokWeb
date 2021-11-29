@@ -43,8 +43,8 @@ Homepage van Bunq.
 <img src="Schermafbeelding 2021-11-22 om 12.18.15.png" width="375px" alt="Homepage van Bunq">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-History van Bunq.  
-<img src="images/Schermafbeelding 2021-11-21 om 14.01.40.png" width="375px" alt="History van Bunq">
+Get easy bank.  
+<img src="Schermafbeelding 2021-11-22 om 12.22.58.png" width="375px" alt="History van Bunq">
  
 </details>
 
